@@ -1,4 +1,4 @@
-package montrose;
+package Plots;
 
 import java.io.*;
 import java.util.Arrays;
